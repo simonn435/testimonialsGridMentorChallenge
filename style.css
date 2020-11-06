@@ -10,6 +10,16 @@
     border-radius: 50%;
 }
 
+.img-cont {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
+.img-cont {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
 .container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
